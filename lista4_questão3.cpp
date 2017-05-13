@@ -49,7 +49,7 @@ int main(){
     aux.nome = "Matheus";
     aux.cpf = "123456789";   
     inserir(pilha, size, aux);
-    aux.nome = "sid";
+    aux.nome = "sidiney";
     aux.cpf = "245789";
     inserir(pilha, size, aux);
     aux.nome = "gabriel";
