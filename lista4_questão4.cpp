@@ -48,7 +48,7 @@ int main(){
     aux.nome = "Matheus";
     aux.cpf = "123456789";   
     inserir(fila, aux, size);
-    aux.nome = "sid";
+    aux.nome = "sidiney";
     aux.cpf = "245789";
     inserir(fila, aux, size);
     aux.nome = "gabriel";
